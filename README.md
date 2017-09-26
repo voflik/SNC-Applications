@@ -1,2 +1,4 @@
 # ServiceNow-Projects
-ServiceNow entire projects , code , table descriptors, docs, etc.
+Active fromm 26092017
+Author: Joro Klifov
+ServiceNow projects. Applications, additions, enhancements, table descriptors, docs, etc.
